@@ -1,0 +1,105 @@
+#main {
+    margin:30px auto;
+    padding:15px;
+    border:0px solid;
+    border-radius:5px;
+    background: #008B8B;
+  }
+  
+  
+  #title {
+    color: 	#282828;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 25px;
+    font-size: 4.5em;
+  }
+  
+  .HarryT {
+    text-align: center;
+    font-size: .89em;
+    padding-bottom: 55px;
+    padding-top: 15px;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  #img-caption {
+    margin:15px;
+   font-family: 'Roboto Slab', serif;
+  }
+  
+  #img-div {
+    margin:-5px;
+    margin-top:20px;
+    max-width:100%;
+    border:5px solid white;
+    background:white;
+    font-family: 'Roboto Slab', serif;
+    font-size: .9em;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 75px;
+    padding-bottom: 20px;
+    font-size: 1.5em;
+  }
+  
+  ul {
+    text-align: center;
+    font-family: 'Roboto Slab',
+    serif;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  .jim-quote {
+    font-family: 'Roboto Slab',
+    serif;
+    padding-top: 50px;
+  }
+  
+  h3 {
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  
+  a:link {
+    color: #FF8C00;
+  }
+  
+  a:visited {
+    color: 	#708090;
+  }
+  
+  a:hover {
+    color: #FFF8DC;
+  }
+  
+  
+  a:active {
+    color: #DC143C;
+  }
+  
+  
